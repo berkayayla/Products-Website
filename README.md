@@ -4,4 +4,6 @@
 
 komutunu kullandıktan sonra
 
--npm start komutuyla projeyi görebilirsiniz.
+-npm start 
+
+komutuyla projeyi görebilirsiniz.
