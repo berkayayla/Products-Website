@@ -1,9 +1,9 @@
 İşlem yapmak istediğimiz modülleri yüklemek için 
 
--npm install 
+npm install 
 
 komutunu kullandıktan sonra
 
--npm start 
+npm start 
 
 komutuyla projeyi görebilirsiniz.
